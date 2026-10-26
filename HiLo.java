@@ -1,8 +1,8 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class HiLo {
-    public static void exHilo() {
+public class HiLo {
+    public static void main(String[] args) {
         Scanner ent = new Scanner(System.in);
         Random r = new Random();
 
